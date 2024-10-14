@@ -1,0 +1,882 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 642.78973514231893,
+        "y": 2379976.6363854576
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 4506.7883365263469,
+            "y": 2382610.9794013468
+          },
+          "nodeIndex": "field_groups",
+          "nodeLineageTag": "9da80502-b75e-4b23-bfdf-174f13e46947",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 5245.2764193630392,
+            "y": 2383739.9693120485
+          },
+          "nodeIndex": "agro_operations",
+          "nodeLineageTag": "1d585477-72f2-4148-9f81-55ad0b339d77",
+          "size": {
+            "height": 145,
+            "width": 203.49727662038867
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 4783.6716755721354,
+            "y": 2383824.4325347277
+          },
+          "nodeIndex": "chemicals",
+          "nodeLineageTag": "dec44367-44c8-4247-b1c5-259d20c6a5fb",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 5080.8906568117782,
+            "y": 2382880.9521279982
+          },
+          "nodeIndex": "fields/v3a",
+          "nodeLineageTag": "6f9baed0-ecbf-4acd-b80b-64070f5b583d",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 5865.15220467682,
+            "y": 2383257.4325354006
+          },
+          "nodeIndex": "field_scout_reports",
+          "nodeLineageTag": "2688f110-a050-4afe-958d-04afca386616",
+          "size": {
+            "height": 526.12259207246825,
+            "width": 234
+          },
+          "zIndex": 27
+        },
+        {
+          "location": {
+            "x": 5474.3823101796224,
+            "y": 2382963.7127918005
+          },
+          "nodeIndex": "fields/v3",
+          "nodeLineageTag": "a8d0b879-faa1-41d4-8eaa-ef499b29c10c",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 5495.68990671405,
+            "y": 2382525.8851332269
+          },
+          "nodeIndex": "historical_values",
+          "nodeLineageTag": "b91ad13d-386a-41af-8248-970096c732fd",
+          "size": {
+            "height": 178.30818338766858,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 4902.5952296431878,
+            "y": 2382351.8435798213
+          },
+          "nodeIndex": "satellite_images",
+          "nodeLineageTag": "c6f92f2e-4c1c-4de0-baf8-0c37e50e7666",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 6774.0880180858212,
+            "y": 2383201.8333391668
+          },
+          "nodeIndex": "scout_report_points",
+          "nodeLineageTag": "28783e7f-b3da-4d42-a10f-69bece66a96b",
+          "size": {
+            "height": 300.27216714061797,
+            "width": 234
+          },
+          "zIndex": 24
+        },
+        {
+          "location": {
+            "x": 6201.0807236659539,
+            "y": 2382649.5265237461
+          },
+          "nodeIndex": "virtual_weather_history_items",
+          "nodeLineageTag": "e0482ab9-36eb-4bd3-9c8c-935236c3c35b",
+          "size": {
+            "height": 185.73839099648808,
+            "width": 325.57336995026026
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 5740.8933630023794,
+            "y": 2382208.58797231
+          },
+          "nodeIndex": "photo",
+          "nodeLineageTag": "8f3d4aad-471e-47fe-bab9-42fccb9d96e5",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 25
+        },
+        {
+          "location": {
+            "x": 7285.2690937039424,
+            "y": 2383039.5450536329
+          },
+          "nodeIndex": "PhotosPoints",
+          "nodeLineageTag": "d0ea120c-d55d-404c-b972-92bce9698e36",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 21
+        },
+        {
+          "location": {
+            "x": 6142.6269569677179,
+            "y": 2382968.1286353818
+          },
+          "nodeIndex": "PhotosReports",
+          "nodeLineageTag": "f2af401e-4d4f-4749-9f9a-b63437e1b531",
+          "size": {
+            "height": 362.26477970881388,
+            "width": 256.45889995985635
+          },
+          "zIndex": 28
+        },
+        {
+          "location": {
+            "x": 5192.4441489410056,
+            "y": 2383311.7237060685
+          },
+          "nodeIndex": "history_items/2024",
+          "nodeLineageTag": "b6d7aaaa-a3e4-4123-be35-9998a0ac262c",
+          "size": {
+            "height": 299.53006179095246,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 4609.2352278953085,
+            "y": 2383365.7069725743
+          },
+          "nodeIndex": "crops/2024",
+          "nodeLineageTag": "321ec0b5-6088-4867-8a4a-6d5e9188c195",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 20
+        },
+        {
+          "location": {
+            "x": 4294.4616276724564,
+            "y": 2383241.7183068693
+          },
+          "nodeIndex": "crops/2023",
+          "nodeLineageTag": "173b7fd5-c22b-401a-8d01-f80031967fe4",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 4638.0402012003142,
+            "y": 2383079.1143311285
+          },
+          "nodeIndex": "history_items/2023",
+          "nodeLineageTag": "34d4b6f8-90d2-4053-95c0-8ffadcc0d29b",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 5321.3863466779267,
+            "y": 2384044.5741061256
+          },
+          "nodeIndex": "fertilizers",
+          "nodeLineageTag": "222e58c2-576d-4f7f-9114-606bfe21f52f",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 5771.4531024810913,
+            "y": 2382585.6883688387
+          },
+          "nodeIndex": "weather_station_field_shape_mapping_items",
+          "nodeLineageTag": "e13380b5-6998-4fe6-b77e-67d68f89a2b0",
+          "size": {
+            "height": 145,
+            "width": 266.26434641881815
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 4473.4254569835821,
+            "y": 2382270.1031954349
+          },
+          "nodeIndex": "Coordinates",
+          "nodeLineageTag": "435acd6c-eb30-4c57-add6-e6d818e58805",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 6194.7253168719162,
+            "y": 2382131.6574606597
+          },
+          "nodeIndex": "Dates Filter",
+          "nodeLineageTag": "027fe111-c858-45d2-874d-85a90bf49149",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 26
+        },
+        {
+          "location": {
+            "x": 7189.431290012466,
+            "y": 2383979.4637786457
+          },
+          "nodeIndex": "measurement_types",
+          "nodeLineageTag": "aa54041a-5bd8-4ea0-82aa-f1bbfa00a9f0",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 18
+        },
+        {
+          "location": {
+            "x": 6675.0936730587573,
+            "y": 2384213.9337848765
+          },
+          "nodeIndex": "plant_threats",
+          "nodeLineageTag": "b7b818c4-e40b-4db1-bc64-1dafe0245c86",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 6691.90274808298,
+            "y": 2383688.7866880819
+          },
+          "nodeIndex": "scout_report_point_issues",
+          "nodeLineageTag": "ef9e801e-de3a-41d6-9f0d-ae0c412c8024",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 7103.9938290436457,
+            "y": 2383695.3135212357
+          },
+          "nodeIndex": "scout_report_point_measurements",
+          "nodeLineageTag": "8dcf421c-b814-4fb5-a922-64678db42755",
+          "size": {
+            "height": 145,
+            "width": 360.34358480744595
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 7234.7903563405262,
+            "y": 2384376.057189343
+          },
+          "nodeIndex": "units",
+          "nodeLineageTag": "a37cb41c-4635-4c07-9cc4-b2b35034a768",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 6302.7398660146864,
+            "y": 2383869.3320121989
+          },
+          "nodeIndex": "PhotosIssues",
+          "nodeLineageTag": "f539f43f-cf6e-418b-bc56-8f331da0782d",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 22
+        },
+        {
+          "location": {
+            "x": 7574.6613176785449,
+            "y": 2383752.3969935607
+          },
+          "nodeIndex": "PhotosMeasurement",
+          "nodeLineageTag": "b277e94f-cb32-49d5-8105-e47a465026ba",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 23
+        },
+        {
+          "location": {
+            "x": 4794.1996900060885,
+            "y": 929610.61693456164
+          },
+          "nodeIndex": "AllRelatedPhotosURLs",
+          "nodeLineageTag": "77690d00-966b-4c5b-a25e-a54dd0e87166",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {},
+          "nodeIndex": "measurements_урожайность",
+          "nodeLineageTag": "b6b4ea4a-d5f8-492e-83e0-365cdd37d06c",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Все таблицы",
+      "zoomValue": 12.570207430874426,
+      "pinKeyFieldsToTop": true,
+      "showExtraHeaderInfo": true,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 1,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [],
+      "name": "Layout 1",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": true,
+      "showExtraHeaderInfo": true,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 2,
+      "scrollPosition": {
+        "x": 95.338556155502175,
+        "y": 527.54002285003639
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1925.0431912947545,
+            "y": 1479.0088613681351
+          },
+          "nodeIndex": "agro_operations",
+          "nodeLineageTag": "1d585477-72f2-4148-9f81-55ad0b339d77",
+          "size": {
+            "height": 211.53817716903856,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 2853.8906239192352,
+            "y": 1781.4167423276454
+          },
+          "nodeIndex": "AllRelatedPhotosURLs",
+          "nodeLineageTag": "77690d00-966b-4c5b-a25e-a54dd0e87166",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 28
+        },
+        {
+          "location": {
+            "x": 2184.3721155278154,
+            "y": 1720.2149899723747
+          },
+          "nodeIndex": "chemicals",
+          "nodeLineageTag": "dec44367-44c8-4247-b1c5-259d20c6a5fb",
+          "size": {
+            "height": 211.53817716903856,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 82.5955775175768,
+            "y": 1056.1265252117853
+          },
+          "nodeIndex": "Coordinates",
+          "nodeLineageTag": "435acd6c-eb30-4c57-add6-e6d818e58805",
+          "size": {
+            "height": 212.53147727681403,
+            "width": 234
+          },
+          "zIndex": 27
+        },
+        {
+          "location": {
+            "x": 1370.4514144945883,
+            "y": 447.5070241037626
+          },
+          "nodeIndex": "crops/2023",
+          "nodeLineageTag": "173b7fd5-c22b-401a-8d01-f80031967fe4",
+          "size": {
+            "height": 211.53817716903856,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 1718.6794571896455,
+            "y": 793.59603231580184
+          },
+          "nodeIndex": "crops/2024",
+          "nodeLineageTag": "321ec0b5-6088-4867-8a4a-6d5e9188c195",
+          "size": {
+            "height": 211.53817716903856,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 771.40237230344553,
+            "y": 735.28444748384879
+          },
+          "nodeIndex": "Dates Filter",
+          "nodeLineageTag": "027fe111-c858-45d2-874d-85a90bf49149",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1866.1770322255138,
+            "y": 1721.2996377254199
+          },
+          "nodeIndex": "fertilizers",
+          "nodeLineageTag": "222e58c2-576d-4f7f-9114-606bfe21f52f",
+          "size": {
+            "height": 211.53817716903856,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 417.18959543962762,
+            "y": 1053.6719790829507
+          },
+          "nodeIndex": "field_groups",
+          "nodeLineageTag": "9da80502-b75e-4b23-bfdf-174f13e46947",
+          "size": {
+            "height": 159.53817716903856,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 1947.8898255819029,
+            "y": 1044.448793725101
+          },
+          "nodeIndex": "field_scout_reports",
+          "nodeLineageTag": "2688f110-a050-4afe-958d-04afca386616",
+          "size": {
+            "height": 211.53817716903856,
+            "width": 234
+          },
+          "zIndex": 25
+        },
+        {
+          "location": {
+            "x": 496.901211766027,
+            "y": 1505.6600232028707
+          },
+          "nodeIndex": "fields/v3",
+          "nodeLineageTag": "a8d0b879-faa1-41d4-8eaa-ef499b29c10c",
+          "size": {
+            "height": 211.53817716903856,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 822.65327102850085,
+            "y": 1176.4717730900059
+          },
+          "nodeIndex": "fields/v3a",
+          "nodeLineageTag": "6f9baed0-ecbf-4acd-b80b-64070f5b583d",
+          "size": {
+            "height": 183.53817716903856,
+            "width": 234
+          },
+          "zIndex": 26
+        },
+        {
+          "location": {
+            "x": 347.30371026733519,
+            "y": 750.03328110948735
+          },
+          "nodeIndex": "historical_values",
+          "nodeLineageTag": "b91ad13d-386a-41af-8248-970096c732fd",
+          "size": {
+            "height": 211.53817716903856,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 1357.2424866772562,
+            "y": 809.50682679965018
+          },
+          "nodeIndex": "history_items/2023",
+          "nodeLineageTag": "34d4b6f8-90d2-4053-95c0-8ffadcc0d29b",
+          "size": {
+            "height": 211.53817716903856,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 1355.863365175434,
+            "y": 1040.828640939701
+          },
+          "nodeIndex": "history_items/2024",
+          "nodeLineageTag": "b6d7aaaa-a3e4-4123-be35-9998a0ac262c",
+          "size": {
+            "height": 211.53817716903856,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 2888.6583202104471,
+            "y": 769.52079704235985
+          },
+          "nodeIndex": "measurement_types",
+          "nodeLineageTag": "aa54041a-5bd8-4ea0-82aa-f1bbfa00a9f0",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 2905.4959456802976,
+            "y": 1291.0523412671325
+          },
+          "nodeIndex": "photo",
+          "nodeLineageTag": "8f3d4aad-471e-47fe-bab9-42fccb9d96e5",
+          "size": {
+            "height": 183.53817716903856,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 3137.0816228090503,
+            "y": 1582.2464827761796
+          },
+          "nodeIndex": "PhotosIssues",
+          "nodeLineageTag": "f539f43f-cf6e-418b-bc56-8f331da0782d",
+          "size": {
+            "height": 183.53817716903856,
+            "width": 234
+          },
+          "zIndex": 29
+        },
+        {
+          "location": {
+            "x": 2606.5875723397385,
+            "y": 1589.7389303631098
+          },
+          "nodeIndex": "PhotosMeasurement",
+          "nodeLineageTag": "b277e94f-cb32-49d5-8105-e47a465026ba",
+          "size": {
+            "height": 183.53817716903856,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 2864.1762884998075,
+            "y": 1589.25904625258
+          },
+          "nodeIndex": "PhotosPoints",
+          "nodeLineageTag": "d0ea120c-d55d-404c-b972-92bce9698e36",
+          "size": {
+            "height": 183.53817716903856,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 2071.2151522453569,
+            "y": 611.8916943204739
+          },
+          "nodeIndex": "PhotosReports",
+          "nodeLineageTag": "f2af401e-4d4f-4749-9f9a-b63437e1b531",
+          "size": {
+            "height": 183.53817716903856,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 2334.8576610817645,
+            "y": 345.97391609484964
+          },
+          "nodeIndex": "plant_threats",
+          "nodeLineageTag": "b7b818c4-e40b-4db1-bc64-1dafe0245c86",
+          "size": {
+            "height": 183.53817716903856,
+            "width": 234
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 1582.6213859740203,
+            "y": 1401.4022908225079
+          },
+          "nodeIndex": "satellite_images",
+          "nodeLineageTag": "c6f92f2e-4c1c-4de0-baf8-0c37e50e7666",
+          "size": {
+            "height": 211.53817716903856,
+            "width": 234
+          },
+          "zIndex": 18
+        },
+        {
+          "location": {
+            "x": 2401.4756719250345,
+            "y": 646.29515854166425
+          },
+          "nodeIndex": "scout_report_point_issues",
+          "nodeLineageTag": "ef9e801e-de3a-41d6-9f0d-ae0c412c8024",
+          "size": {
+            "height": 211.53817716903856,
+            "width": 234
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 3034.349364851003,
+            "y": 1057.3751910566311
+          },
+          "nodeIndex": "scout_report_point_measurements",
+          "nodeLineageTag": "8dcf421c-b814-4fb5-a922-64678db42755",
+          "size": {
+            "height": 211.53817716903856,
+            "width": 234
+          },
+          "zIndex": 20
+        },
+        {
+          "location": {
+            "x": 2526.96868139883,
+            "y": 1006.714815230257
+          },
+          "nodeIndex": "scout_report_points",
+          "nodeLineageTag": "28783e7f-b3da-4d42-a10f-69bece66a96b",
+          "size": {
+            "height": 211.53817716903856,
+            "width": 234
+          },
+          "zIndex": 21
+        },
+        {
+          "location": {
+            "x": 3164.019395635532,
+            "y": 599.02256911787549
+          },
+          "nodeIndex": "units",
+          "nodeLineageTag": "a37cb41c-4635-4c07-9cc4-b2b35034a768",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 22
+        },
+        {
+          "location": {
+            "x": 1373.6321120479652,
+            "y": 1671.2010709952506
+          },
+          "nodeIndex": "virtual_weather_history_items",
+          "nodeLineageTag": "e0482ab9-36eb-4bd3-9c8c-935236c3c35b",
+          "size": {
+            "height": 211.53817716903856,
+            "width": 234
+          },
+          "zIndex": 23
+        },
+        {
+          "location": {
+            "x": 1033.1195437663253,
+            "y": 1825.7975873882917
+          },
+          "nodeIndex": "weather_station_field_shape_mapping_items",
+          "nodeLineageTag": "e13380b5-6998-4fe6-b77e-67d68f89a2b0",
+          "size": {
+            "height": 159.53817716903856,
+            "width": 234
+          },
+          "zIndex": 24
+        }
+      ],
+      "name": "Layout 2",
+      "zoomValue": 50.346892102823006,
+      "pinKeyFieldsToTop": true,
+      "showExtraHeaderInfo": true,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 3,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 308.5
+          },
+          "nodeIndex": "photo",
+          "nodeLineageTag": "8f3d4aad-471e-47fe-bab9-42fccb9d96e5",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 943.71865310033445,
+            "y": 337.92532086500603
+          },
+          "nodeIndex": "scout_report_point_measurements",
+          "nodeLineageTag": "8dcf421c-b814-4fb5-a922-64678db42755",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 592.20000076293945,
+            "y": 0
+          },
+          "nodeIndex": "scout_report_point_issues",
+          "nodeLineageTag": "ef9e801e-de3a-41d6-9f0d-ae0c412c8024",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 379.80665533346769,
+            "y": 346.97998046008411
+          },
+          "nodeIndex": "scout_report_points",
+          "nodeLineageTag": "28783e7f-b3da-4d42-a10f-69bece66a96b",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Layout 3",
+      "zoomValue": 70.955543900968792,
+      "pinKeyFieldsToTop": true,
+      "showExtraHeaderInfo": true,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Layout 2",
+  "defaultDiagram": "Все таблицы"
+}
