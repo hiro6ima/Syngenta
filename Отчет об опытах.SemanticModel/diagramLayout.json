@@ -373,19 +373,6 @@
           "zIndex": 23
         },
         {
-          "location": {
-            "x": 4794.1996900060885,
-            "y": 929610.61693456164
-          },
-          "nodeIndex": "AllRelatedPhotosURLs",
-          "nodeLineageTag": "77690d00-966b-4c5b-a25e-a54dd0e87166",
-          "size": {
-            "height": 200,
-            "width": 234
-          },
-          "zIndex": 0
-        },
-        {
           "location": {},
           "nodeIndex": "measurements_урожайность",
           "nodeLineageTag": "b6b4ea4a-d5f8-492e-83e0-365cdd37d06c",
@@ -436,19 +423,6 @@
             "width": 234
           },
           "zIndex": 1
-        },
-        {
-          "location": {
-            "x": 2853.8906239192352,
-            "y": 1781.4167423276454
-          },
-          "nodeIndex": "AllRelatedPhotosURLs",
-          "nodeLineageTag": "77690d00-966b-4c5b-a25e-a54dd0e87166",
-          "size": {
-            "height": 145,
-            "width": 234
-          },
-          "zIndex": 28
         },
         {
           "location": {
